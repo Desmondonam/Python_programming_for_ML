@@ -1,14 +1,15 @@
 # Python Basics
 
-Variables and Data Types:
+## 1. Variables and Data Types:
 
-Variable declaration and assignment
-Numeric data types (int, float)
-String manipulation
-Boolean values and logical operations
-Control Flow:
+- Variable declaration and assignment
+- Numeric data types (int, float)
+- String manipulation
+- Boolean values and logical operations
+- Control Flow:
 
-If statements and conditional execution
+## 2. If statements and conditional execution
+
 Loops (for loop and while loop)
 Break and continue statements
 Exception handling (try-except blocks)
