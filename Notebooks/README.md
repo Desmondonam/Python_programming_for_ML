@@ -10,49 +10,57 @@
 
 ## 2. If statements and conditional execution
 
-Loops (for loop and while loop)
-Break and continue statements
-Exception handling (try-except blocks)
-Data Structures:
+- Loops (for loop and while loop)
+- Break and continue statements
+- Exception handling (try-except blocks)
+- Data Structures:
 
-Lists and list operations (slicing, appending, etc.)
-Tuples and tuple operations
-Dictionaries and dictionary operations
-Sets and set operations
-Functions:
+## 3. Lists and list operations (slicing, appending, etc.)
 
-Defining and calling functions
-Function parameters (positional, keyword, default)
-Returning values from functions
-Recursive functions
-File Handling:
+- Tuples and tuple operations
+- Dictionaries and dictionary operations
+- Sets and set operations
 
-Reading data from a file
-Writing data to a file
-File opening, closing, and handling exceptions
-File modes (read, write, append)
-Modules and Libraries:
+## 4.Functions:
 
-Importing modules and using built-in functions
-Creating and using user-defined modules
-Exploring commonly used libraries (e.g., math, random, datetime)
-Object-Oriented Programming (OOP):
+- Defining and calling functions
+- Function parameters (positional, keyword, default)
+- Returning values from functions
+- Recursive functions
 
-Class definition and object instantiation
-Class attributes and methods
-Inheritance and polymorphism
-Encapsulation and abstraction
-Error Handling and Debugging:
+## 5. File Handling:
 
-Raising and handling exceptions
-Using the try-except statement
-Debugging techniques (e.g., print statements, debugging tools)
-List Comprehensions:
+- Reading data from a file
+- Writing data to a file
+- File opening, closing, and handling exceptions
+- File modes (read, write, append)
 
-Creating concise lists using list comprehensions
-Filtering and transforming elements in a list
-Functional Programming Concepts:
+## 6. Modules and Libraries:
 
-Lambda functions
-Map, filter, and reduce operations
-Using the zip function
+- Importing modules and using built-in functions
+- Creating and using user-defined modules
+- Exploring commonly used libraries (e.g., math, random, datetime)
+
+## 7. Object-Oriented Programming (OOP):
+
+- Class definition and object instantiation
+- Class attributes and methods
+- Inheritance and polymorphism
+- Encapsulation and abstraction
+
+## 8. Error Handling and Debugging:
+
+- Raising and handling exceptions
+- Using the try-except statement
+- Debugging techniques (e.g., print statements, debugging tools)
+
+## 9. List Comprehensions:
+
+- Creating concise lists using list comprehensions
+- Filtering and transforming elements in a list
+
+## 10. Functional Programming Concepts:
+
+- Lambda functions
+- Map, filter, and reduce operations
+- Using the zip function
