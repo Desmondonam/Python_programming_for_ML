@@ -55,7 +55,7 @@ def calculate():
 
 
 equal_button = tk.Button(root, text="=", padx=10, pady=10, command=calculate)
-equal_button.grid(row=row_index, column=col_index - 1)
+equal_button.grid(row=row_index, column=col_index)
 
 # run the application
 
